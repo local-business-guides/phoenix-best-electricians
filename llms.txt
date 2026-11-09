@@ -23,6 +23,9 @@
 - [Top Electrician Az in Phoenix for Home Electrical Work](https://local-business-guides.github.io/phoenix-best-electricians/top-electrician-az-in-phoenix/): Top Electrician Az in Phoenix: get help sorting out home electrical work and know what to ask before booking. Call Phoenix Best Electricians today.
 - [Best Electrician Az Phoenix for Home Electrical Needs](https://local-business-guides.github.io/phoenix-best-electricians/best-electrician-az-phoenix/): Best Electrician Az Phoenix: prepare for home electrical work with a simple checklist. Call Phoenix Best Electricians in Phoenix any time to discuss the job.
 
+## Newsroom
+- [Phoenix Best Electricians Releases Guide to Electrician In Phoenix AZ](https://local-business-guides.github.io/phoenix-best-electricians/news/2026-11-09-phoenix-best-electricians-releases-guide-to/): Phoenix Best Electricians published a guide to Electrician In Phoenix AZ this week, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-09)
+
 ## Pages
 - [Electrician in Phoenix, Arizona](https://local-business-guides.github.io/phoenix-best-electricians/): Get a clear starting point for electrical service and an easy way to reach an electrician in Phoenix. Call +1602-780-1140.
 - [About Phoenix Best Electricians](https://local-business-guides.github.io/phoenix-best-electricians/about/): About Phoenix Best Electricians, Phoenix.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/phoenix-best-electricians/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/phoenix-best-electricians/news/rss.xml)
 - [Main resource site](https://phoenix-best-electricians-az.localbusinesses1.chatgpt.site)
